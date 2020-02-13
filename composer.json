@@ -262,5 +262,11 @@
             "Magento\\TestFramework\\Utility\\": "dev/tests/static/framework/Magento/TestFramework/Utility/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "repositories": {
+        "magento-ci-cd": {
+            "type": "git",
+            "url": "git@github.com:ashwinikumar251/magento-ci-cd.git"
+        }
+    }
 }
